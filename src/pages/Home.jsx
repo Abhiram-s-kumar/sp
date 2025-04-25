@@ -41,7 +41,7 @@ const Home = () => {
         {/* Location of the Company */}
         {/* Enroll Now Button Section */}
         <div className="mt-16 flex justify-center">
-          <Link to='./contact'>
+          <Link to='/contact'>
             <button className="text-white bg-blue-900 px-8 py-3 text-lg font-semibold rounded-full shadow-lg transition-all duration-300 transform hover:bg-blue-400 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">
               Enroll Now
             </button>

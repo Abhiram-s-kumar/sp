@@ -21,7 +21,7 @@ const Landing = () => {
           Transforming Education through Digital Excellence
         </p>
         <a
-          href="/"
+          href="/home"
           className="inline-block bg-white text-blue-900 px-8 py-3 text-lg font-semibold rounded-full transition-all duration-300 transform hover:bg-blue-100 hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
           data-aos="zoom-in"
         >
